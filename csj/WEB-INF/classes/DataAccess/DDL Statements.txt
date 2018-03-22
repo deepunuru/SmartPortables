@@ -1,0 +1,36 @@
+Please edit the below mentioned variables within csj/WEB-INF/classes/DataAccess/MySQLDataStoreUtilities.java in order to connect to the database.
+
+String conString = "jdbc:mysql://localhost:1111/SmartPortablesDB?useSSL=false";
+String username = "";
+String pwd = "";
+
+A customer account with below mentioned credentials will be created automatically to insert sample orders into the database.
+	username - user1
+	pwd - user1
+Below are the DDL commands using in this application. The application is designed to detect and create database and tables if they do not exist within mysql database.
+create database IF NOT EXISTS SmartPortablesDB;
+
+
+
+USE SmartPortablesDB;
+
+
+CREATE TABLE IF NOT EXISTS users(userType varchar(255) NOT NULL,username varchar(255) NOT NULL,firstName varchar(255) DEFAULT NULL,lastName varchar(255) DEFAULT NULL,address varchar(255) DEFAULT NULL,zipcode int(11) DEFAULT NULL,emailID varchar(255) DEFAULT NULL,dob varchar(20) DEFAULT NULL,password varchar(255) NOT NULL,PRIMARY KEY(username));
+
+CREATE TABLE IF NOT EXISTS orders(customerName varchar(255) DEFAULT NULL,username varchar(255) NOT NULL,orderDate varchar(255) NOT NULL,confirmationNumber int(20) NOT NULL,deliveryDate varchar(255) NOT NULL,shippingPrice double(20,2) NOT NULL,totalPrice double(20,2) NOT NULL,productWarranty varchar(255) DEFAULT NULL,country varchar(255) DEFAULT NULL,state varchar(255) DEFAULT NULL,address1 varchar(255) DEFAULT NULL,address2 varchar(255) DEFAULT NULL,city varchar(255) DEFAULT NULL, zipCode int(11) DEFAULT NULL,mobileNumber varchar(255) DEFAULT NULL,emailAddress varchar(255) DEFAULT NULL,PRIMARY KEY(confirmationNumber));
+
+CREATE TABLE IF NOT EXISTS orderProductList(confirmationNumber int(20) NOT NULL,productID varchar(255) NOT NULL,productType varchar(255) NOT NULL,qnty int(20) NOT NULL);
+
+CREATE TABLE IF NOT EXISTS accessories(productID varchar(255) NOT NULL,productType varchar(255) NOT NULL,retailer varchar(255) NOT NULL,productName varchar(255) NOT NULL,image varchar(255) NOT NULL,productCondition varchar(255) NOT NULL,price double NOT NULL,manufacturer varchar(255) NOT NULL,discount double NOT NULL,PRIMARY KEY(productID));
+
+CREATE TABLE IF NOT EXISTS products(productID varchar(255) NOT NULL,productType varchar(255) NOT NULL,retailer varchar(255) NOT NULL,productName varchar(255) NOT NULL,image varchar(255) NOT NULL,productCondition varchar(255) NOT NULL,price double NOT NULL,manufacturer varchar(255) NOT NULL,discount double NOT NULL,PRIMARY KEY(productID));
+
+
+CREATE TABLE IF NOT EXISTS productaccessories(productID varchar(255) NOT NULL,productType varchar(255) NOT NULL,accessoryID varchar(255) NOT NULL);
+
+CREATE TABLE IF NOT EXISTS inventory(productID varchar(255) NOT NULL,productName varchar(255) NOT NULL,price double NOT NULL,qnty int(11) DEFAULT NULL,productOnSale TINYINT(1) NOT NULL,rebate TINYINT(1) NOT NULL,PRIMARY KEY(productID));
+
+CREATE OR REPLACE VIEW totalSalesTable as select o.productID,i.productName,price,sum(o.qnty) as SalesCount,(price * sum(o.qnty)) as TotalSales,o.confirmationNumber from orderProductList o,inventory i where o.productID=i.productID group by o.productID;
+
+CREATE OR REPLACE VIEW ProdCount AS select * from orderProductList group by confirmationNumber;
+

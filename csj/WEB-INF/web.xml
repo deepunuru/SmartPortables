@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+
+
+
+
+  <display-name>csj</display-name>
+  <welcome-file-list>
+    <welcome-file>Controller/HomeServlet</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+	<servlet-name>HomeServlet</servlet-name>
+	<servlet-class>Controller.HomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>HomeServlet</servlet-name>
+	<url-pattern>/Controller/HomeServlet</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+	<servlet-name>PortableServlet</servlet-name>
+	<servlet-class>Controller.PortableServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>PortableServlet</servlet-name>
+	<url-pattern>/Controller/PortableServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>LoginServlet</servlet-name>
+	<servlet-class>Controller.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>LoginServlet</servlet-name>
+	<url-pattern>/Controller/LoginServlet</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+	<servlet-name>LogoutServlet</servlet-name>
+	<servlet-class>Controller.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>LogoutServlet</servlet-name>
+	<url-pattern>/Controller/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>RegisterServlet</servlet-name>
+	<servlet-class>Controller.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>RegisterServlet</servlet-name>
+	<url-pattern>/Controller/RegisterServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DisplayProduct</servlet-name>
+	<servlet-class>Controller.DisplayProduct</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DisplayProduct</servlet-name>
+	<url-pattern>/Controller/DisplayProduct</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+	<servlet-name>SalesmanHomeServlet</servlet-name>
+	<servlet-class>Controller.SalesmanHomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>SalesmanHomeServlet</servlet-name>
+	<url-pattern>/Controller/SalesmanHomeServlet</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+	<servlet-name>ManagerHomeServlet</servlet-name>
+	<servlet-class>Controller.ManagerHomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ManagerHomeServlet</servlet-name>
+	<url-pattern>/Controller/ManagerHomeServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ManagerDisplayProducts</servlet-name>
+	<servlet-class>Controller.ManagerDisplayProducts</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ManagerDisplayProducts</servlet-name>
+	<url-pattern>/Controller/ManagerDisplayProducts</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ManagerDeleteProducts</servlet-name>
+	<servlet-class>Controller.ManagerDeleteProducts</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ManagerDeleteProducts</servlet-name>
+	<url-pattern>/Controller/ManagerDeleteProducts</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+	<servlet-name>CustomerHomeServlet</servlet-name>
+	<servlet-class>Controller.CustomerHomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>CustomerHomeServlet</servlet-name>
+	<url-pattern>/Controller/CustomerHomeServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+	<servlet-name>CartServlet</servlet-name>
+	<servlet-class>Controller.CartServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>CartServlet</servlet-name>
+	<url-pattern>/Controller/CartServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>CartCarousel</servlet-name>
+	<servlet-class>Controller.CartCarousel</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>CartCarousel</servlet-name>
+	<url-pattern>/Controller/CartCarousel</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DeleteOrder</servlet-name>
+	<servlet-class>Controller.DeleteOrder</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DeleteOrder</servlet-name>
+	<url-pattern>/Controller/DeleteOrder</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>TypeServlet</servlet-name>
+	<servlet-class>Controller.TypeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>TypeServlet</servlet-name>
+	<url-pattern>/Controller/TypeServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ProductReview</servlet-name>
+	<servlet-class>Controller.ProductReview</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ProductReview</servlet-name>
+	<url-pattern>/Controller/ProductReview</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+	<servlet-name>ProductListServlet</servlet-name>
+	<servlet-class>Controller.ProductListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ProductListServlet</servlet-name>
+	<url-pattern>/Controller/ProductListServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+	<servlet-name>TrendingServlet</servlet-name>
+	<servlet-class>Controller.TrendingServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>TrendingServlet</servlet-name>
+	<url-pattern>/Controller/TrendingServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+	<servlet-name>DataAnalyticsServlet</servlet-name>
+	<servlet-class>Controller.DataAnalyticsServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataAnalyticsServlet</servlet-name>
+	<url-pattern>/Controller/DataAnalyticsServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>InventorySalesServlet</servlet-name>
+	<servlet-class>Controller.InventorySalesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>InventorySalesServlet</servlet-name>
+	<url-pattern>/Controller/InventorySalesServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ChartServlet</servlet-name>
+	<servlet-class>Controller.ChartServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ChartServlet</servlet-name>
+	<url-pattern>/Controller/ChartServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>SalesChart</servlet-name>
+	<servlet-class>Controller.SalesChart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>SalesChart</servlet-name>
+	<url-pattern>/Controller/SalesChart</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>AjaxUtility</servlet-name>
+	<servlet-class>Controller.AjaxUtility</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>AjaxUtility</servlet-name>
+	<url-pattern>/Controller/AjaxUtility</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DataExplorationUtility</servlet-name>
+	<servlet-class>Controller.DataExplorationUtility</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataExplorationUtility</servlet-name>
+	<url-pattern>/Controller/DataExplorationUtility</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DataExplorationServlet</servlet-name>
+	<servlet-class>Controller.DataExplorationServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataExplorationServlet</servlet-name>
+	<url-pattern>/Controller/DataExplorationServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DealMatches</servlet-name>
+	<servlet-class>Controller.DealMatches</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DealMatches</servlet-name>
+	<url-pattern>/Controller/DealMatches</url-pattern>
+  </servlet-mapping>
+  
+  <session-config>
+	<session-timeout>
+		30
+	</session-timeout>
+  </session-config>
+
+</web-app>

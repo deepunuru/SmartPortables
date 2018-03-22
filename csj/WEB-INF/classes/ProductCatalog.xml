@@ -1,0 +1,2689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE xml>
+<ProductCatalog>
+<SmartWatchCatalog>
+	<smartwatch id="LGWatchStyle1" retailer="SmartPortables">
+		<name>LG Watch Style</name>
+		<image>/images/LGWatchStyle.jpg</image>
+		<condition>New</condition>
+		<price>159.99</price>
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>7</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>LGWirelessChargingCradle</accessory>
+				<accessory>HBS-A100</accessory>
+				<accessory>HBS-A80</accessory>
+				<accessory>KoolBands18mmPremiumSolid</accessory>
+				<accessory>SupershieldzforLGWatchStyle</accessory>
+				<accessory>SDT-310</accessory>
+				<accessory>WCD-H100</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="SamsungGearS3Frontier" retailer="SmartPortables">
+		<name>Samsung Gear S3 Frontier</name>
+		<image>/images/SamsungGearS3Frontier.jpg</image>
+		<condition>New</condition>
+		<price>349.99</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>9</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>GearS3AlligatorGrainLeatherBand-Black</accessory>
+				<accessory>GearS3WirelessChargingDock</accessory>
+				<accessory>GearS3SiliconBandKhakiGreen</accessory>
+				<accessory>GearS3ClassicLeatherBand-Black</accessory>
+				<accessory>GearS3ClassicLeatherBand-Navy</accessory>
+				<accessory>GearS3ClassicLeatherBand-KhakiGreen</accessory>
+				<accessory>GearS3AlligatorGrainLeatherBand-Brown</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="LGWatchSport" retailer="SmartPortables">
+		<name>LG Watch Sport</name>
+		<image>/images/LGWatchSport.jpg</image>
+		<condition>Refurbished</condition>
+		<price>248.99</price>
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>LGWirelessChargingCradle</accessory>
+				<accessory>HBS-A100</accessory>
+				<accessory>HBS-A80</accessory>
+				<accessory>KoolBands18mmPremiumSolid</accessory>
+				<accessory>SupershieldzforLGWatchStyle</accessory>
+				<accessory>SDT-310</accessory>
+				<accessory>WCD-H100</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="AsusZenWatch3" retailer="SmartPortables">
+		<name>Asus Zen Watch 3</name>
+		<image>/images/AsusZenWatch3.jpg</image>
+		<condition>New</condition>
+		<price>229.00</price>
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>Pinhen14mmQuickReleaseWatchbandMeshStainless</accessory>
+				<accessory>ASUSZenwatch3Charger</accessory>
+				<accessory>Balerion-WatchbandforASUSZenWatch3</accessory>
+				<accessory>ASUSZenWatch3Stand</accessory>
+				<accessory>ZenWatch3MagneticChargingCable</accessory>
+				<accessory>ZenWatch3PowerPack</accessory>
+				<accessory>ASUSMagneticChargingCableforZenWatch3</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="HuaweiWatch2" retailer="SmartPortables">
+		<name>Huawei Watch 2</name>
+		<image>/images/HuaweiWatch2.jpg</image>
+		<condition>Used</condition>
+		<price>216.65</price>
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>ShangpuleHuaweiWatch2Band</accessory>
+				<accessory>HuaweiWatch2ChargingCradle</accessory>
+				<accessory>HuaweiWatch2ChargerDock</accessory>
+				<accessory>HuaweiWatch2ClassicTitaniumGreyBand</accessory>
+				<accessory>OriginalOEMHuaweiWatch2ChargingCradleDock</accessory>
+				<accessory>HOCOHuaweiWatch2Band</accessory>
+				<accessory>ArtifexHuawei2WatchStand</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="Moto360Gen-2" retailer="SmartPortables">
+		<name>Moto360 Gen-2</name>
+		<image>/images/Moto360Gen-2.jpg</image>
+		<condition>New</condition>
+		<price>158.99</price>
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>MotorolaMoto360ScreenProtector</accessory>
+				<accessory>GenuineMotorolaMoto360WirelessChargingDock</accessory>
+				<accessory>MotorolaMobilityMoto360SmartwatchCharger</accessory>
+				<accessory>YOLIKEMOTO360WatchCharger</accessory>
+				<accessory>Moto3602WatchBand</accessory>
+				<accessory>ArmorSuitMilitaryShieldMotorolaMoto360</accessory>
+				<accessory>SnuGWatchbandMoto36022mm</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="AppleWatch" retailer="SmartPortables">
+		<name>Apple Watch</name>
+		<image>/images/AppleWatch.jpg</image>
+		<condition>New</condition>
+		<price>249.00</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>6</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>AppleAirPods</accessory>
+				<accessory>BelkinValetChargeDock</accessory>
+				<accessory>AppleWatchMagneticChargingDock</accessory>
+				<accessory>AppleWatchMagneticChargingCable</accessory>
+				<accessory>42mmFlashSportLoop</accessory>
+				<accessory>42mmSpicyOrangeSportLoop</accessory>
+				<accessory>42mmElectricPinkSportLoop</accessory>
+				<accessory>42mmSeashellSportLoop</accessory>
+				<accessory>42mmBlackSportLoop</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="HuaweiWatch" retailer="SmartPortables">
+		<name>Huawei Watch</name>
+		<image>/images/HuaweiWatch.jpg</image>
+		<condition>Refurbished</condition>
+		<price>258.77</price>
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>ShangpuleHuaweiWatch2Band</accessory>
+				<accessory>HuaweiWatch2ChargingCradle</accessory>
+				<accessory>HuaweiWatch2ChargerDock</accessory>
+				<accessory>HuaweiWatch2ClassicTitaniumGreyBand</accessory>
+				<accessory>OriginalOEMHuaweiWatch2ChargingCradleDock</accessory>
+				<accessory>HOCOHuaweiWatch2Band</accessory>
+				<accessory>ArtifexHuawei2WatchStand</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="SamsungGearS2" retailer="SmartPortables">
+		<name>Samsung Gear S2</name>
+		<image>/images/SamsungGearS2.jpg</image>
+		<condition>New</condition>
+		<price>249.99</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>GearS3AlligatorGrainLeatherBand-Black</accessory>
+				<accessory>GearS3WirelessChargingDock</accessory>
+				<accessory>GearS3SiliconBand–KhakiGreen</accessory>
+				<accessory>GearS3ClassicLeatherBand-Black</accessory>
+				<accessory>GearS3ClassicLeatherBand-Navy</accessory>
+				<accessory>GearS3ClassicLeatherBand-KhakiGreen</accessory>
+				<accessory>GearS3AlligatorGrainLeatherBand-Brown</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="AppleWatch2" retailer="SmartPortables">
+		<name>AppleWatch2</name>
+		<image>/images/AppleWatch2.jpg</image>
+		<condition>new</condition>
+		<price>159.99</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>4</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>AppleAirPods</accessory>
+				<accessory>BelkinValetChargeDock</accessory>
+				<accessory>AppleWatchMagneticChargingDock</accessory>
+				<accessory>AppleWatchMagneticChargingCable</accessory>
+				<accessory>42mmFlashSportLoop</accessory>
+				<accessory>42mmSpicyOrangeSportLoop</accessory>
+				<accessory>42mmElectricPinkSportLoop</accessory>
+				<accessory>42mmSeashellSportLoop</accessory>
+				<accessory>42mmBlackSportLoop</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="LGWatchStyle2" retailer="SmartPortables">
+		<name>LG Watch Style 2</name>
+		<image>/images/LGWatchStyle.jpg</image>
+		<condition>New</condition>
+		<price>159.99</price>
+		<manufacturer>LG</manufacturer>
+		<discount>10</discount>
+		<qnty>9</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>AppleAirPods</accessory>
+				<accessory>BelkinValetChargeDock</accessory>
+				<accessory>AppleWatchMagneticChargingDock</accessory>
+				<accessory>AppleWatchMagneticChargingCable</accessory>
+				<accessory>42mmFlashSportLoop</accessory>
+				<accessory>42mmSpicyOrangeSportLoop</accessory>
+				<accessory>42mmElectricPinkSportLoop</accessory>
+				<accessory>42mmSeashellSportLoop</accessory>
+				<accessory>42mmBlackSportLoop</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="Product15" retailer="SmartPortables">
+		<name>Product 15</name>
+		<image>/images/AsusZenWatch3.jpg</image>
+		<condition>New</condition>
+		<price>500</price>
+		<manufacturer>New</manufacturer>
+		<discount>10</discount>
+		<qnty>10</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>AppleAirPods</accessory>
+				<accessory>BelkinValetChargeDock</accessory>
+				<accessory>AppleWatchMagneticChargingDock</accessory>
+				<accessory>AppleWatchMagneticChargingCable</accessory>
+				<accessory>42mmFlashSportLoop</accessory>
+				<accessory>42mmSpicyOrangeSportLoop</accessory>
+				<accessory>42mmElectricPinkSportLoop</accessory>
+				<accessory>42mmSeashellSportLoop</accessory>
+				<accessory>42mmBlackSportLoop</accessory>
+		</accessories>
+	</smartwatch>
+	<smartwatch id="SamsungGearS21Frontier" retailer="SmartPortables">
+		<name>Samsung Gear S21 Frontier</name>
+		<image>/images/SamsungGearS3Frontier.jpg</image>
+		<condition>New</condition>
+		<price>362.99</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>8</discount>
+		<qnty>14</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>ASUSZenWatch3Stand</accessory>
+			<accessory>SnuGWatchbandMoto36022mm</accessory>
+			<accessory>GearS3SiliconBand-Red</accessory>
+			<accessory>GenuineMotorolaMoto360WirelessChargingDock</accessory>
+			<accessory>Moto3602WatchBand</accessory>
+			<accessory>SDT-310</accessory>
+			<accessory>HBS-A100</accessory>
+		</accessories>
+	</smartwatch>
+</SmartWatchCatalog>
+<SpeakersCatalog>
+	<speakers id="AperionAllaire" retailer="SmartPortables">
+		<name>Aperion Allaire</name>
+		<image>/images/AperionAllaire.jpg</image>
+		<condition>New</condition>
+		<price>400.00</price>
+		<manufacturer>AperionAudio</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>RocketfishTiltingWallMountsforMostSmallSpeakers</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="EdifierUSAe25LunaEclipse" retailer="SmartPortables">
+		<name>Edifier USA e25 Luna Eclipse</name>
+		<image>/images/EdifierUSAe25LunaEclipse.jpg</image>
+		<condition>New</condition>
+		<price>183.99</price>
+		<manufacturer>EdifierUSA</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>RocketfishMultiDirectionalSpeakerWallMount</accessory>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+				<accessory>AudioQuestPearlInWallHDMICableWhite</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="LogitechZ533" retailer="SmartPortables">
+		<name>Logitech Z533</name>
+		<image>/images/LogitechZ533.jpg</image>
+		<condition>New</condition>
+		<price>99.99</price>
+		<manufacturer>Logitech</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestPearlInWallHDMICableWhite</accessory>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="KlipschProMedia" retailer="SmartPortables">
+		<name>Klipsch ProMedia 2.1</name>
+		<image>/images/KlipschProMedia.jpg</image>
+		<condition>New</condition>
+		<price>139.99</price>
+		<manufacturer>Klipsch</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>RocketfishTiltingWallMountsforMostSmallSpeakers</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="AudioEngineA2+" retailer="SmartPortables">
+		<name>Audio Engine A2+</name>
+		<image>/images/AudioEngineA2+.jpg</image>
+		<condition>New</condition>
+		<price>249.99</price>
+		<manufacturer>Audio Engine</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+				<accessory>AudioQuestPearlInWallHDMICableWhite</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="KEFEgg" retailer="SmartPortables">
+		<name>KEF Egg</name>
+		<image>/images/KEFEgg.jpg</image>
+		<condition>New</condition>
+		<price>499.99</price>
+		<manufacturer>KEF</manufacturer>
+		<discount>10.0</discount>
+		<qnty>8</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+				<accessory>AudioQuestPearlInWallHDMICableWhite</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="BoseCompanion5" retailer="SmartPortables">
+		<name>Bose Companion 5</name>
+		<image>/images/BoseCompanion5.jpg</image>
+		<condition>New</condition>
+		<price>399.00</price>
+		<manufacturer>Bose</manufacturer>
+		<discount>10.0</discount>
+		<qnty>14</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+				<accessory>RocketfishTiltingWallMountsforMostSmallSpeakers</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="HarmanKardonSoundsticks3" retailer="SmartPortables">
+		<name>Harman Kardon Soundsticks III</name>
+		<image>/images/HarmanKardonSoundsticks3.jpg</image>
+		<condition>New</condition>
+		<price>167.66</price>
+		<manufacturer>Harman Kardon</manufacturer>
+		<discount>10.0</discount>
+		<qnty>7</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+				<accessory>AudioQuestPearlInWallHDMICableWhite</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="LogitechSpeakerSystemZ323" retailer="SmartPortables">
+		<name>Logitech Speaker System Z323</name>
+		<image>/images/LogitechSpeakerSystemZ323.jpg</image>
+		<condition>New</condition>
+		<price>49.99</price>
+		<manufacturer>Logitech</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>RocketfishTiltingWallMountsforMostSmallSpeakers</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+				<accessory>AluratekiStreamUniversalBluetoothAudioReceiverBlack</accessory>
+				<accessory>BoseWB300WallBracketBlack</accessory>
+		</accessories>
+	</speakers>
+	<speakers id="JBLCreatureII" retailer="SmartPortables">
+		<name>JBL Creature II 3-Piece Powered Speaker System</name>
+		<image>/images/JBLCreatureII.jpg</image>
+		<condition>New</condition>
+		<price>99.95</price>
+		<manufacturer>JBL</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+				<accessory>RocketfishTiltingWallMountsforMostSmallSpeakers</accessory>
+				<accessory>InsigniaPortableBluetoothAudioReceiver</accessory>
+				<accessory>RocketfishSoundbarMountBlack</accessory>
+				<accessory>AudioQuestOptiLinkForestInWall</accessory>
+				<accessory>InsigniaStereoAudioRCACableBlack</accessory>
+				<accessory>AluratekBluetoothAudioTransmitterWhite</accessory>
+				<accessory>SONOSLowProfileWallMountforPLAYBARSoundbars</accessory>
+		</accessories>
+	</speakers>
+</SpeakersCatalog>
+<HeadphonesCatalog>
+	<headphones id="BoseQuietComfort35" retailer="SmartPortables">
+		<name>Bose Quiet Comfort 35</name>
+		<image>/images/BoseQuietComfort35.jpg</image>
+		<condition>New</condition>
+		<price>349.00</price>
+		<manufacturer>Bose</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="SonyMDR-1A" retailer="SmartPortables">
+		<name>Sony MDR-1A</name>
+		<image>/images/SonyMDR-1A.jpg</image>
+		<condition>New</condition>
+		<price>199.99</price>
+		<manufacturer>Sony</manufacturer>
+		<discount>10.0</discount>
+		<qnty>21</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="V-ModaCrossfade2Wireless" retailer="SmartPortables">
+		<name>V-Moda Crossfade 2 Wireless</name>
+		<image>/images/V-ModaCrossfade2Wireless.jpg</image>
+		<condition>New</condition>
+		<price>339.00</price>
+		<manufacturer>V-Moda</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="BoseSoundSportWireless" retailer="SmartPortables">
+		<name>Bose SoundSport Wireless</name>
+		<image>/images/BoseSoundSportWireless.jpg</image>
+		<condition>New</condition>
+		<price>149.00</price>
+		<manufacturer>Bose</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="SennheiserMomentum2" retailer="SmartPortables">
+		<name>Sennheiser Momentum 2.0</name>
+		<image>/images/SennheiserMomentum2.jpg</image>
+		<condition>New</condition>
+		<price>243.88</price>
+		<manufacturer>Sennheiser</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="BeatsX" retailer="SmartPortables">
+		<name>BeatsX</name>
+		<image>/images/BeatsX.jpg</image>
+		<condition>New</condition>
+		<price>149.95</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="AudezeSine" retailer="SmartPortables">
+		<name>Audeze Sine</name>
+		<image>/images/AudezeSine.jpg</image>
+		<condition>New</condition>
+		<price>449.00</price>
+		<manufacturer>Audeze</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="BeatsStudioWirelessHeadphones" retailer="SmartPortables">
+		<name>Beats Studio Wireless Headphones</name>
+		<image>/images/BeatsStudioWirelessHeadphones.jpg</image>
+		<condition>New</condition>
+		<price>229.99</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="BeyerdynamicT51i" retailer="SmartPortables">
+		<name>Beyerdynamic T51i</name>
+		<image>/images/BeyerdynamicT51i.jpg</image>
+		<condition>New</condition>
+		<price>195.69</price>
+		<manufacturer>BeyerDynamic</manufacturer>
+		<discount>10.0</discount>
+		<qnty>23</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+	<headphones id="Audio-TechnicaATH-M50X" retailer="SmartPortables">
+		<name>Audio-Technica ATH-M50X</name>
+		<image>/images/Audio-TechnicaATH-M50X.jpg</image>
+		<condition>New</condition>
+		<price>149.00</price>
+		<manufacturer>Audio-Technica</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>Insignia65WayStereoSplitterWhite</accessory>
+			<accessory>GriffinTechnologyAuxiliaryAudioCableBlack</accessory>
+			<accessory>InsigniaAudioCableWhite</accessory>
+			<accessory>BeatsbyDrDreAudioCableRed</accessory>
+			<accessory>InsigniaAccessoriesforAppleAirPodsWhite</accessory>
+			<accessory>InsigniaStereoSplitterCableBlack</accessory>
+			<accessory>GriffinTechnologySurvivorAUXAuxiliaryAudioCable</accessory>
+		</accessories>
+	</headphones>
+</HeadphonesCatalog>
+<PhonesCatalog>
+	<phone id="SamsungGalaxyNote8" retailer="SmartPortables">
+		<name>Samsung Galaxy Note 8</name>
+		<image>/images/SamsungGalaxyNote8.jpg</image>
+		<condition>New</condition>
+		<price>960.00</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="SamsungGalaxyS7edge32GB" retailer="SmartPortables">
+		<name>Samsung Galaxy S7 edge</name>
+		<image>/images/SamsungGalaxyS7edge32GB.jpg</image>
+		<condition>New</condition>
+		<price>599.99</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="AppleIphoneX" retailer="SmartPortables">
+		<name>Apple Iphone X</name>
+		<image>/images/AppleIphoneX.jpg</image>
+		<condition>New</condition>
+		<price>999.00</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="AppleiPhoneSE4GLTEwith32GB" retailer="SmartPortables">
+		<name>iPhone SE</name>
+		<image>/images/AppleiPhoneSE4GLTEwith32GB.jpg</image>
+		<condition>New</condition>
+		<price>149.99</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="SamsungGalaxyS8" retailer="SmartPortables">
+		<name>Samsung Galaxy S8</name>
+		<image>/images/SamsungGalaxyS8.jpg</image>
+		<condition>New</condition>
+		<price>750.00</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="SamsungGalaxyS8Plus" retailer="SmartPortables">
+		<name>Samsung Galaxy S8 Plus</name>
+		<image>/images/SamsungGalaxyS8Plus.jpg</image>
+		<condition>New</condition>
+		<price>850.00</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>SamsungFastChargeWirelessCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="AppleIphone8" retailer="SmartPortables">
+		<name>Apple Iphone 8</name>
+		<image>/images/AppleIphone8.jpg</image>
+		<condition>New</condition>
+		<price>699.00</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>SamsungFastChargeWirelessChargingConvertibleStand</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="AppleIphone8Plus" retailer="SmartPortables">
+		<name>Apple Iphone 8 Plus</name>
+		<image>/images/AppleIphone8Plus.jpg</image>
+		<condition>New</condition>
+		<price>749.00</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>SamsungFastChargeWirelessChargingConvertibleStand</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="HTCU11" retailer="SmartPortables">
+		<name>HTC U11</name>
+		<image>/images/HTCU11.jpg</image>
+		<condition>New</condition>
+		<price>649.00</price>
+		<manufacturer>HTC</manufacturer>
+		<discount>10.0</discount>
+		<qnty>21</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>SamsungFastChargeWirelessChargingConvertibleStand</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="LGG6" retailer="SmartPortables">
+		<name>LG G6</name>
+		<image>/images/LGG6.jpg</image>
+		<condition>New</condition>
+		<price>500.00</price>
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>SamsungFastChargeWirelessChargingConvertibleStand</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>AppleLightningDigitalAVAdapter</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>AppleLightningtoUSB2Cable</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="BlackBerryKeyOne" retailer="SmartPortables">
+		<name>BlackBerry KeyOne</name>
+		<image>/images/BlackBerryKeyOne.jpg</image>
+		<condition>New</condition>
+		<price>549.00</price>
+		<manufacturer>BlackBerry</manufacturer>
+		<discount>10.0</discount>
+		<qnty>8</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="GooglePixel" retailer="SmartPortables">
+		<name>Google Pixel</name>
+		<image>/images/GooglePixel.jpg</image>
+		<condition>New</condition>
+		<price>649.00</price>
+		<manufacturer>Google</manufacturer>
+		<discount>10.0</discount>
+		<qnty>6</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+	<phone id="GooglePixelXL" retailer="SmartPortables">
+		<name>Google Pixel XL</name>
+		<image>/images/GooglePixelXL.jpg</image>
+		<condition>New</condition>
+		<price>749.00</price>
+		<manufacturer>Google</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</accessory>
+			<accessory>SamsungWirelessChargerGold</accessory>
+			<accessory>mophieJuicePackExternalBatteryCase</accessory>
+			<accessory>PlatinumQuickChargeCarCharger</accessory>
+			<accessory>InsigniaQiCertifiedWirelessChargingPadforiPhone</accessory>
+			<accessory>AppleLightningto35HeadphoneAdapter</accessory>
+			<accessory>PlatinumQuickChargeWallCharger</accessory>
+		</accessories>
+	</phone>
+</PhonesCatalog>
+<LaptopsCatalog>
+	<laptop id="AppleMacBookProWithTouchBar" retailer="SmartPortables">
+		<name>Apple MacBook Pro® with Touch Bar</name>
+		<image>/images/AppleMacBookProWithTouchBar.jpg</image>
+		<condition>New</condition>
+		<price>1799.99</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LapGearXLDesignerLapDeskSilverDamask</accessory>
+			<accessory>LapGearExecutiveTabletPillowStandGraylinen</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskGoldQuatrefoil</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>LapGearXLStudentLapDeskwithclipBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="HP-SpectreX360" retailer="SmartPortables">
+		<name>HP - Spectre x360</name>
+		<image>/images/HP-SpectreX360.jpg</image>
+		<condition>New</condition>
+		<price>1299.00</price>
+		<manufacturer>HP</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>LapGearXLDesignerLapDeskSilverDamask</accessory>
+			<accessory>LapGearExecutiveTabletPillowStandGraylinen</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskGoldQuatrefoil</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>LapGearXLStudentLapDeskwithclipBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="HP156LaptopAMDA6Series" retailer="SmartPortables">
+		<name>HP 15.6" Laptop</name>
+		<image>/images/hp15_6_Laptop.jpg</image>
+		<condition>New</condition>
+		<price>279.99</price>
+		<manufacturer>HP</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="DellInspiron156LaptopIntelCorei7" retailer="SmartPortables">
+		<name>Dell Inspiron 15.6" Touch Screen Laptop Intel Core i3 8GB Memory 1TB Hard Drive -Black</name>
+		<image>/images/DellInspiron156LaptopIntelCorei7.jpg</image>
+		<condition>New</condition>
+		<price>1199.99</price>
+		<manufacturer>Dell</manufacturer>
+		<discount>10.0</discount>
+		<qnty>24</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="HP173LaptopIntelCorei7" retailer="SmartPortables">
+		<name>HP 17.3" Laptop</name>
+		<image>/images/HP173LaptopIntelCorei7.jpg</image>
+		<condition>New</condition>
+		<price>509.99</price>
+		<manufacturer>HP</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="AppleMacBook" retailer="SmartPortables">
+		<name>Apple MacBook Pro 15.4"</name>
+		<image>/images/AppleMacBook.jpg</image>
+		<condition>New</condition>
+		<price>1299.99</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>LapGearXLDesignerLapDeskSilverDamask</accessory>
+			<accessory>LapGearExecutiveTabletPillowStandGraylinen</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskGoldQuatrefoil</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>LapGearXLStudentLapDeskwithclipBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="LenovoYoga910" retailer="SmartPortables">
+		<name>Lenovo Yoga 910</name>
+		<image>/images/LenovoYoga910.jpg</image>
+		<condition>New</condition>
+		<price>1199.99</price>
+		<manufacturer>Lenovo</manufacturer>
+		<discount>10.0</discount>
+		<qnty>14</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>LapGearXLDesignerLapDeskSilverDamask</accessory>
+			<accessory>LapGearExecutiveTabletPillowStandGraylinen</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskGoldQuatrefoil</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>LapGearXLStudentLapDeskwithclipBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="LenovoMiix510" retailer="SmartPortables">
+		<name>Lenovo Miix 510</name>
+		<image>/images/LenovoMiix510.jpg</image>
+		<condition>New</condition>
+		<price>827.99</price>
+		<manufacturer>Lenovo</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="RazerBladeStealth" retailer="SmartPortables">
+		<name>Razer Blade Stealth</name>
+		<image>/images/RazerBladeStealth.jpg</image>
+		<condition>New</condition>
+		<price>1599.99</price>
+		<manufacturer>Razer</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="SamsungChromebookPro" retailer="SmartPortables">
+		<name>Samsung Chromebook Pro</name>
+		<image>/images/SamsungChromebookPro.jpg</image>
+		<condition>New</condition>
+		<price>547.99</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="DellXPS13" retailer="SmartPortables">
+		<name>Dell XPS 13 2-in-1</name>
+		<image>/images/DellXPS13.jpg</image>
+		<condition>New</condition>
+		<price>999.99</price>
+		<manufacturer>Dell</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="MicrosoftSurfacePro2017" retailer="SmartPortables">
+		<name>Microsoft Surface Pro 2017</name>
+		<image>/images/MicrosoftSurfacePro2017.jpg</image>
+		<condition>New</condition>
+		<price>799.99</price>
+		<manufacturer>Microsoft</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="MicrosoftSurfaceLaptop" retailer="SmartPortables">
+		<name>Microsoft Surface Laptop</name>
+		<image>/images/MicrosoftSurfaceLaptop.jpg</image>
+		<condition>New</condition>
+		<price>999.99</price>
+		<manufacturer>Microsoft</manufacturer>
+		<discount>10.0</discount>
+		<qnty>14</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>LapGearMiniMyDeskLapdeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="Alienware17R4" retailer="SmartPortables">
+		<name>Alienware 17 R4</name>
+		<image>/images/Alienware17R4.jpg</image>
+		<condition>New</condition>
+		<price>1799.99</price>
+		<manufacturer>Dell</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+	<laptop id="Alienware15R3" retailer="SmartPortables">
+		<name>Alienware 15 R3</name>
+		<image>/images/Alienware15R3.jpg</image>
+		<condition>New</condition>
+		<price>1559.00</price>
+		<manufacturer>Dell</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</accessory>
+			<accessory>CreativeManufacturing17SeriesLapDeskBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskTrelli</accessory>
+			<accessory>LapGearXLDesignerLapDeskDiamonds</accessory>
+			<accessory>AluratekUniversalFoldableLaptopStand</accessory>
+			<accessory>ATLANTICLaptopTrayBlack</accessory>
+			<accessory>LapGearXLDesignerLapDeskDamask</accessory>
+		</accessories>
+	</laptop>
+</LaptopsCatalog>
+<ExternalStorageCatalog>
+	<storage id="WesternDigitalMyPassport" retailer="SmartPortables">
+		<name>Western Digital My Passport</name>
+		<image>/images/WesternDigitalMyPassport.jpg</image>
+		<condition>New</condition>
+		<price>57.00</price>
+		<manufacturer>Western Digital</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+		</accessories>
+	</storage>
+	<storage id="SeagateBackupPlus5TB" retailer="SmartPortables">
+		<name>Seagate Backup Plus 5TB</name>
+		<image>/images/SeagateBackupPlus5TB.jpg</image>
+		<condition>New</condition>
+		<price>149.00</price>
+		<manufacturer>Seagate</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+		</accessories>
+	</storage>
+	<storage id="ToshibaCanvioBasics1TB" retailer="SmartPortables">
+		<name>Toshiba Canvio Basics 1TB</name>
+		<image>/images/ToshibaCanvioBasics1TB.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>
+		<manufacturer>Toshiba</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="SeagateFireCudaSSHD1TB" retailer="SmartPortables">
+		<name>Seagate FireCuda SSHD 1TB</name>
+		<image>/images/SeagateFireCudaSSHD1TB.jpg</image>
+		<condition>New</condition>
+		<price>55.99</price>
+		<manufacturer>Seagate</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="PlextorM8Pe256G8M2" retailer="SmartPortables">
+		<name>Plextor M8Pe 256G8 M.2 PCIe NVMe SSD</name>
+		<image>/images/PlextorM8Pe256G8M2.jpg</image>
+		<condition>New</condition>
+		<price>129.90</price>
+		<manufacturer>Plextor</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="PNYElitePerformace64GBFlashMemory" retailer="SmartPortables">
+		<name>PNY Elite Performace 64GB Flash SDXC Class 10</name>
+		<image>/images/PNYElitePerformace64GBFlashMemory.jpg</image>
+		<condition>New</condition>
+		<price>29.93</price>
+		<manufacturer>PNY</manufacturer>
+		<discount>10.0</discount>
+		<qnty>32</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="Samsung850EVO500GBSSD" retailer="SmartPortables">
+		<name>Samsung 850 EVO 500GB Internal SSD</name>
+		<image>/images/Samsung850EVO500GBSSD.jpg</image>
+		<condition>New</condition>
+		<price>174.96</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>28</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="Samsung960EVOSeries250GBSSD" retailer="SmartPortables">
+		<name>Samsung 960 EVO Series 250GB PCIe NVMe Internal SSD</name>
+		<image>/images/Samsung960EVOSeries250GBSSD.jpg</image>
+		<condition>New</condition>
+		<price>117.60</price>
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>24</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="PNYElite480GBUSB3PortableSSD" retailer="SmartPortables">
+		<name>PNY Elite 480GB USB 3.0 Portable SSD</name>
+		<image>/images/PNYElite480GBUSB3PortableSSD.jpg</image>
+		<condition>New</condition>
+		<price>179.99</price>
+		<manufacturer>PNY</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="PatriotSupersonicRage2" retailer="SmartPortables">
+		<name>Patriot Supersonic Rage 2 128GB</name>
+		<image>/images/PatriotSupersonicRage2.jpg</image>
+		<condition>New</condition>
+		<price>53.99</price>
+		<manufacturer>Patriot</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="KingstonDataTraveler100Gen3" retailer="SmartPortables">
+		<name>Kingston DataTraveler 100 Gen3 64GB</name>
+		<image>/images/KingstonDataTraveler100Gen3.jpg</image>
+		<condition>New</condition>
+		<price>22.83</price>
+		<manufacturer>Kingston</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="SanDiskExtremeCZ80" retailer="SmartPortables">
+		<name>SanDisk Extreme CZ80 32GB</name>
+		<image>/images/SanDiskExtremeCZ80.jpg</image>
+		<condition>New</condition>
+		<price>17.99</price>
+		<manufacturer>SanDisk</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="VerbatimPinstripe" retailer="SmartPortables">
+		<name>Verbatim Pinstripe 128GB</name>
+		<image>/images/VerbatimPinstripe.jpg</image>
+		<condition>New</condition>
+		<price>39.21</price>
+		<manufacturer>Verbatim</manufacturer>
+		<discount>10.0</discount>
+		<qnty>29</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="SanDiskExtremePlusMicroSDXC" retailer="SmartPortables">
+		<name>SanDisk Extreme Plus MicroSDXC 64GB</name>
+		<image>/images/SanDiskExtremePlusMicroSDXC.jpg</image>
+		<condition>New</condition>
+		<price>60.00</price>
+		<manufacturer>SanDisk</manufacturer>
+		<discount>10.0</discount>
+		<qnty>21</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+	<storage id="PolaroidExtremeSDXC64GB" retailer="SmartPortables">
+		<name>Polaroid Extreme SDXC 64GB</name>
+		<image>/images/PolaroidExtremeSDXC64GB.jpg</image>
+		<condition>New</condition>
+		<price>40.00</price>
+		<manufacturer>Polaroid</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+		<accessories>
+			<accessory>VisionTekDriveXpanderHotSwappableAdapter</accessory>
+			<accessory>StarTechUSB3AdapterCable</accessory>
+			<accessory>StarTechUSBCToSATA</accessory>
+			<accessory>StarTecheSATAUSB3HardDriveDockingStation</accessory>
+			<accessory>ApricornDataTransferCableGray</accessory>
+			<accessory>WDCarryingCaseforSelectPassportPortableHardDrives</accessory>
+			<accessory>Insignia3SerialATAHardDriveEnclosure</accessory>
+			<accessory>Insignia25SerialATAHardDriveEnclosure</accessory>
+			<accessory>InsigniaPortableHardDriveCaseCharcoal</accessory>
+		</accessories>
+	</storage>
+</ExternalStorageCatalog>
+<AccessoriesCatalog>
+	<accessorymain id="AppleAirPods" retailer="SmartPortables" type="smartwatches">
+		<name>Apple AirPods</name>
+		<image>/images/AppleAirPods.jpg</image>
+		<condition>New</condition>
+		<price>159.00</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="BelkinValetChargeDock" retailer="SmartPortables" type="smartwatches">
+		<name>Belkin Valet Charge Dock for Apple Watch + iPhone</name>
+		<image>/images/BelkinValetChargeDock.jpg</image>
+		<condition>New</condition>
+		<price>129.95</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="AppleWatchMagneticChargingDock" retailer="SmartPortables" type="smartwatches">
+		<name>AppleWatchMagneticChargingDock</name>
+		<image>/images/AppleWatchMagneticChargingDock.jpg</image>
+		<condition>New</condition>
+		<price>79.95</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>21</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AppleWatchMagneticChargingCable" retailer="SmartPortables" type="smartwatches">
+		<name>Apple Watch Magnetic Charging Cable</name>
+		<image>/images/AppleWatchMagneticChargingCable.jpg</image>
+		<condition>New</condition>
+		<price>39.60</price>
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>28</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="42mmFlashSportLoop" retailer="SmartPortables" type="smartwatches">
+		<name>42mm Flash Sport Loop</name>
+		<image>/images/42mmFlashSportLoop.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="42mmSpicyOrangeSportLoop" retailer="SmartPortables" type="smartwatches">
+		<name>42mm Spicy Orange Sport Loop</name>
+		<image>/images/42mmSpicyOrangeSportLoop.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="42mmElectricPinkSportLoop" retailer="SmartPortables" type="smartwatches">
+		<name>42mmElectricPinkSportLoop</name>
+		<image>/images/42mmElectricPinkSportLoop.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="42mmSeashellSportLoop" retailer="SmartPortables" type="smartwatches">
+		<name>42mmSeashellSportLoop</name>
+		<image>/images/42mmSeashellSportLoop.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>10</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="42mmBlackSportLoop" retailer="SmartPortables" type="smartwatches">
+		<name>42mm Black Sport Loop</name>
+		<image>/images/42mmBlackSportLoop.jpg</image>
+		<condition>New</condition>
+		<price>49.00</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3AlligatorGrainLeatherBand-Black" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Alligator Grain Leather Band - Black</name>
+		<image>/images/GearS3AlligatorGrainLeatherBand-Black.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>10</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3WirelessChargingDock" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Wireless Charging Dock</name>
+		<image>/images/GearS3WirelessChargingDock.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3SiliconBandKhakiGreen" retailer="SmartPortables" type="smartwatches">
+		<name>GearS3SiliconBandKhakiGreen</name>
+		<image>/images/GearS3SiliconBandKhakiGreen.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ClassicLeatherBand-Black" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Classic Leather Band - Black</name>
+		<image>/images/GearS3ClassicLeatherBand-Black.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ClassicLeatherBand-Navy" retailer="SmartPortables" type="smartwatches">
+		<name>Gear 3 Classic LeatherBand - Navy</name>
+		<image>/images/GearS3ClassicLeatherBand-Navy.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ClassicLeatherBand-KhakiGreen" retailer="SmartPortables" type="smartwatches">
+		<name>Gear 3 Classic LeatherBand - Khaki Green</name>
+		<image>/images/GearS3ClassicLeatherBand-KhakiGreen.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>21</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3AlligatorGrainLeatherBand-Brown" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Alligator Grain Leather Band - Brown</name>
+		<image>/images/GearS3AlligatorGrainLeatherBand-Brown.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3AlligatorGrainLeatherBand-Red" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Alligator Grain Leather Band - Red</name>
+		<image>/images/GearS3AlligatorGrainLeatherBand-Red.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ArikLevyStrap-EclipseSilver" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Arik Levy Strap - Eclipse Silver</name>
+		<image>/images/GearS3ArikLevyStrap-EclipseSilver.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ArikLevyStrap-FacetBrown" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Arik Levy Strap - Facet Brown</name>
+		<image>/images/GearS3ArikLevyStrap-FacetBrown.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>29</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3ArikLevyStrap-Fractal" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Arik Levy Strap - Fractal</name>
+		<image>/images/GearS3ArikLevyStrap-Fractal.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3SiliconBand-Black" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Silicon Band - Black</name>
+		<image>/images/GearS3SiliconBand-Black.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GearS3SiliconBand-Red" retailer="SmartPortables" type="smartwatches">
+		<name>Gear S3 Silicon Band - Red</name>
+		<image>/images/GearS3SiliconBand-Red.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>6</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LGWirelessChargingCradle" retailer="SmartPortables" type="smartwatches">
+		<name>LG Wireless Battery Charging Cradle for LG Watch Style</name>
+		<image>/images/LGWirelessChargingCradle.jpg</image>
+		<condition>New</condition>
+		<price>35.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>8</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="HBS-A100" retailer="SmartPortables" type="smartwatches">
+		<name>LG TONE Active Bluetooth Wireless Stereo Headset Red</name>
+		<image>/images/HBS-A100.jpg</image>
+		<condition>New</condition>
+		<price>179.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>4</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="HBS-A80" retailer="SmartPortables" type="smartwatches">
+		<name>LG TONE Active Bluetooth Wireless Headset - Blue</name>
+		<image>/images/HBS-A80.jpg</image>
+		<condition>New</condition>
+		<price>129.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>9</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="KoolBands18mmPremiumSolid" retailer="SmartPortables" type="smartwatches">
+		<name>KoolBands 18mm Premium Solid Stainless Steel Link Bracelet</name>
+		<image>/images/KoolBands18mmPremiumSolid.jpg</image>
+		<condition>New</condition>
+		<price>13.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>29</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="SupershieldzforLGWatchStyle" retailer="SmartPortables" type="smartwatches">
+		<name>Supershieldz for LG Watch Style Tempered Glass Screen Protector</name>
+		<image>/images/SupershieldzforLGWatchStyle.jpg</image>
+		<condition>New</condition>
+		<price>13.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>32</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="SDT-310" retailer="SmartPortables" type="smartwatches">
+		<name>LG G Watch Charging Cradle</name>
+		<image>/images/SDT-310.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>43</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="WCD-H100" retailer="SmartPortables" type="smartwatches">
+		<name>LG Wireless Battery Charging Cradle for LG Watch </name>
+		<image>/images/WCD-H100.jpg</image>
+		<condition>New</condition>
+		<price>35.99</price>	
+		<manufacturer>LG</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Pinhen14mmQuickReleaseWatchbandMeshStainless" retailer="SmartPortables" type="smartwatches">
+		<name>Pinhen 14mm Quick Release Watchband Mesh Stainless</name>
+		<image>/images/Pinhen14mmQuickReleaseWatchbandMeshStainless.jpg</image>
+		<condition>New</condition>
+		<price>9.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>45</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="ASUSZenwatch3Charger" retailer="SmartPortables" type="smartwatches">
+		<name>ASUS Zenwatch 3 Charger</name>
+		<image>/images/ASUSZenwatch3Charger.jpg</image>
+		<condition>New</condition>
+		<price>11.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>35</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Balerion-WatchbandforASUSZenWatch3" retailer="SmartPortables" type="smartwatches">
+		<name>Balerion-Watch band for ASUS ZenWatch 3</name>
+		<image>/images/Balerion-WatchbandforASUSZenWatch3.jpg</image>
+		<condition>New</condition>
+		<price>18.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>	
+	<accessorymain id="ASUSZenWatch3Stand" retailer="SmartPortables" type="smartwatches">
+		<name>ASUS Zen Watch 3 Stand</name>
+		<image>/images/ASUSZenWatch3Stand.jpg</image>
+		<condition>New</condition>
+		<price>31.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="ZenWatch3MagneticChargingCable" retailer="SmartPortables" type="smartwatches">
+		<name>ZenWatch 3 Magnetic Charging Cable</name>
+		<image>/images/ZenWatch3MagneticChargingCable.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>32</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="ZenWatch3PowerPack" retailer="SmartPortables" type="smartwatches">
+		<name>Zen Watch 3 Power Pack</name>
+		<image>/images/ZenWatch3PowerPack.jpg</image>
+		<condition>New</condition>
+		<price>45.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>45</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="ASUSMagneticChargingCableforZenWatch3" retailer="SmartPortables" type="smartwatches">
+		<name>ASUS Magnetic Charging Cable for ZenWatch3</name>
+		<image>/images/ASUSMagneticChargingCableforZenWatch3.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Asus</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="MotorolaMoto360ScreenProtector" retailer="SmartPortables" type="smartwatches">
+		<name>Motorola Moto 360 Screen Protector</name>
+		<image>/images/MotorolaMoto360ScreenProtector.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="GenuineMotorolaMoto360WirelessChargingDock" retailer="SmartPortables" type="smartwatches">
+		<name>Genuine Motorola Moto360 Wireless Charging Dock</name>
+		<image>/images/GenuineMotorolaMoto360WirelessChargingDock.jpg</image>
+		<condition>New</condition>
+		<price>31.99</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="MotorolaMobilityMoto360SmartwatchCharger" retailer="SmartPortables" type="smartwatches">
+		<name>Motorola Mobility Moto360 Smartwatch Charger</name>
+		<image>/images/MotorolaMobilityMoto360SmartwatchCharger.jpg</image>
+		<condition>New</condition>
+		<price>25.99</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>14</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="YOLIKEMOTO360WatchCharger" retailer="SmartPortables" type="smartwatches">
+		<name>YOLIKE MOTO 360 Watch Charger</name>
+		<image>/images/YOLIKEMOTO360WatchCharger.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Moto3602WatchBand" retailer="SmartPortables" type="smartwatches">
+		<name>Moto 360 2 Watch Band</name>
+		<image>/images/Moto3602WatchBand.jpg</image>
+		<condition>New</condition>
+		<price>14.99</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>7</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="ArmorSuitMilitaryShieldMotorolaMoto360" retailer="SmartPortables" type="smartwatches">
+		<name>Armor Suit Military Shield Motorola Moto 360</name>
+		<image>/images/ArmorSuitMilitaryShieldMotorolaMoto360.jpg</image>
+		<condition>New</condition>
+		<price>7.85</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>8</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="SnuGWatchbandMoto36022mm" retailer="SmartPortables" type="smartwatches">
+		<name>SnuG Watch band Moto 360 22mm</name>
+		<image>/images/SnuGWatchbandMoto36022mm.jpg</image>
+		<condition>New</condition>
+		<price>25.00</price>	
+		<manufacturer>Motorola</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="ShangpuleHuaweiWatch2Band" retailer="SmartPortables" type="smartwatches">
+		<name>Shangpule Huawei Watch 2 Band</name>
+		<image>/images/ShangpuleHuaweiWatch2Band.jpg</image>
+		<condition>New</condition>
+		<price>18.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>23</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>	
+	<accessorymain id="HuaweiWatch2ChargingCradle" retailer="SmartPortables" type="smartwatches">
+		<name>Huawei Watch 2 Charging Cradle</name>
+		<image>/images/HuaweiWatch2ChargingCradle.jpg</image>
+		<condition>New</condition>
+		<price>11.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="HuaweiWatch2ChargerDock" retailer="SmartPortables" type="smartwatches">
+		<name>Huawei Watch 2 Charger Dock</name>
+		<image>/images/HuaweiWatch2ChargerDock.jpg</image>
+		<condition>New</condition>
+		<price>9.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>28</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="HuaweiWatch2ClassicTitaniumGreyBand" retailer="SmartPortables" type="smartwatches">
+		<name>Huawei Watch 2 Classic - Titanium Grey Band</name>
+		<image>/images/HuaweiWatch2ClassicTitaniumGreyBand.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="OriginalOEMHuaweiWatch2ChargingCradleDock" retailer="SmartPortables" type="smartwatches">
+		<name>Original OEM Huawei Watch 2 Charging Cradle Dock</name>
+		<image>/images/OriginalOEMHuaweiWatch2ChargingCradleDock.jpg</image>
+		<condition>New</condition>
+		<price>23.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>39</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="HOCOHuaweiWatch2Band" retailer="SmartPortables" type="smartwatches">
+		<name>HOCO Huawei Watch 2 Band</name>
+		<image>/images/HOCOHuaweiWatch2Band.jpg</image>
+		<condition>New</condition>
+		<price>26.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>26</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="ArtifexHuawei2WatchStand" retailer="SmartPortables" type="smartwatches">
+		<name>Artifex Huawei 2 Watch Stand</name>
+		<image>/images/ArtifexHuawei2WatchStand.jpg</image>
+		<condition>New</condition>
+		<price>20.99</price>	
+		<manufacturer>Huawei</manufacturer>
+		<discount>10.0</discount>
+		<qnty>34</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="RocketfishTiltingWallMountsforMostSmallSpeakers" retailer="SmartPortables" type="speakers">
+		<name>Rocketfish Tilting Wall Mounts for Most Small Speakers</name>
+		<image>/images/RocketfishTiltingWallMountsforMostSmallSpeakers.jpg</image>
+		<condition>New</condition>
+		<price>24.99</price>	
+		<manufacturer>Rocketfish</manufacturer>
+		<discount>10.0</discount>
+		<qnty>24</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaPortableBluetoothAudioReceiver" retailer="SmartPortables" type="speakers">
+		<name>Insignia™ Portable Bluetooth Audio Receiver</name>
+		<image>/images/InsigniaPortableBluetoothAudioReceiver.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>29</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AluratekBluetoothAudioTransmitterWhite" retailer="SmartPortables" type="speakers">
+		<name>Aluratek Bluetooth Audio Transmitter White</name>
+		<image>/images/AluratekBluetoothAudioTransmitterWhite.jpg</image>
+		<condition>New</condition>
+		<price>28.99</price>	
+		<manufacturer>Aluratek</manufacturer>
+		<discount>10.0</discount>
+		<qnty>26</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="AluratekiStreamUniversalBluetoothAudioReceiverBlack" retailer="SmartPortables" type="speakers">
+		<name>Aluratek - iStream Universal Bluetooth Audio Receiver - Black</name>
+		<image>/images/AluratekiStreamUniversalBluetoothAudioReceiverBlack.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Aluratek</manufacturer>
+		<discount>10.0</discount>
+		<qnty>32</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaStereoAudioRCACableBlack" retailer="SmartPortables" type="speakers">
+		<name>Insignia™ Stereo Audio RCA Cable Black</name>
+		<image>/images/InsigniaStereoAudioRCACableBlack.jpg</image>
+		<condition>New</condition>
+		<price>10.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>33</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="SONOSLowProfileWallMountforPLAYBARSoundbars" retailer="SmartPortables" type="speakers">
+		<name>SONOS - Low-Profile Wall Mount for PLAYBAR Soundbars</name>
+		<image>/images/SONOSLowProfileWallMountforPLAYBARSoundbars.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>SONOS</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="RocketfishSoundbarMountBlack" retailer="SmartPortables" type="speakers">
+		<name>Rocketfish - Soundbar Mount - Black</name>
+		<image>/images/RocketfishSoundbarMountBlack.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Rocketfish</manufacturer>
+		<discount>10.0</discount>
+		<qnty>37</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AudioQuestPearlInWallHDMICableWhite" retailer="SmartPortables" type="speakers">
+		<name>AudioQuest - Pearl In-Wall HDMI Cable - White</name>
+		<image>/images/AudioQuestPearlInWallHDMICableWhite.jpg</image>
+		<condition>New</condition>
+		<price>99.99</price>	
+		<manufacturer>AudioQuest</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="BoseWB300WallBracketBlack" retailer="SmartPortables" type="speakers">
+		<name>Bose - WB-300 Wall Bracket - Black</name>
+		<image>/images/BoseWB300WallBracketBlack.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Bose</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="RocketfishMultiDirectionalSpeakerWallMount" retailer="SmartPortables" type="speakers">
+		<name>Rocketfish - Multi-Directional Speaker Wall Mount</name>
+		<image>/images/RocketfishMultiDirectionalSpeakerWallMount.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Rocketfish</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AudioQuestOptiLinkForestInWall" retailer="SmartPortables" type="speakers">
+		<name>AudioQuest - OptiLink Forest 9.8 In-Wall Optical Cable</name>
+		<image>/images/AudioQuestOptiLinkForestInWall.jpg</image>
+		<condition>New</condition>
+		<price>69.99</price>	
+		<manufacturer>AudioQuest</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Insignia65WayStereoSplitterWhite" retailer="SmartPortables" type="headphones">
+		<name>Insignia™ - 6 5-Way Stereo Splitter White</name>
+		<image>/images/Insignia65WayStereoSplitterWhite.jpg</image>
+		<condition>New</condition>
+		<price>11.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>10</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GriffinTechnologyAuxiliaryAudioCableBlack" retailer="SmartPortables" type="headphones">
+		<name>Griffin Technology - Auxiliary Audio Cable - Black</name>
+		<image>/images/GriffinTechnologyAuxiliaryAudioCableBlack.jpg</image>
+		<condition>New</condition>
+		<price>14.99</price>	
+		<manufacturer>Griffin</manufacturer>
+		<discount>10.0</discount>
+		<qnty>15</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaAudioCableWhite" retailer="SmartPortables" type="headphones">
+		<name>Insignia™ Audio Cable White</name>
+		<image>/images/InsigniaAudioCableWhite.jpg</image>
+		<condition>New</condition>
+		<price>10.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="BeatsbyDrDreAudioCableRed" retailer="SmartPortables" type="headphones">
+		<name>BeatsbyDrDreAudioCableRed</name>
+		<image>/images/BeatsbyDrDreAudioCableRed.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>Beats</manufacturer>
+		<discount>10.0</discount>
+		<qnty>20</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaAccessoriesforAppleAirPodsWhite" retailer="SmartPortables" type="headphones">
+		<name>Insignia™ Accessories for Apple AirPods White</name>
+		<image>/images/InsigniaAccessoriesforAppleAirPodsWhite.jpg</image>
+		<condition>New</condition>
+		<price>16.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>27</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaHeadphoneExtensionCableandAdapterKit" retailer="SmartPortables" type="headphones">
+		<name>Insignia™ Headphone Extension Cable and Adapter Kit</name>
+		<image>/images/InsigniaHeadphoneExtensionCableandAdapterKit.jpg</image>
+		<condition>New</condition>
+		<price>12.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaStereoSplitterCableBlack" retailer="SmartPortables" type="headphones">
+		<name>Insignia™ Stereo Splitter Cable Black</name>
+		<image>/images/InsigniaStereoSplitterCableBlack.jpg</image>
+		<condition>New</condition>
+		<price>12.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="GriffinTechnologySurvivorAUXAuxiliaryAudioCable" retailer="SmartPortables" type="headphones">
+		<name>Griffin Technology Survivor AUX Auxiliary Audio Cable</name>
+		<image>/images/GriffinTechnologySurvivorAUXAuxiliaryAudioCable.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>Griffin</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus" retailer="SmartPortables" type="smartphones">
+		<name>LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus</name>
+		<image>/images/LifeProofProtectiveWaterproofCaseforAppleiPhone7Plus.jpg</image>
+		<condition>New</condition>
+		<price>45.99</price>	
+		<manufacturer>LifeProof</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="mophieJuicePackExternalBatteryCase" retailer="SmartPortables" type="smartphones">
+		<name>mophieJuicePackExternalBatteryCase</name>
+		<image>/images/mophieJuicePackExternalBatteryCase.jpg</image>
+		<condition>New</condition>
+		<price>58.99</price>	
+		<manufacturer>mophie</manufacturer>
+		<discount>10.0</discount>
+		<qnty>10</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AppleLightningDigitalAVAdapter" retailer="SmartPortables" type="smartphones">
+		<name>AppleLightningDigitalAVAdapter</name>
+		<image>/images/AppleLightningDigitalAVAdapter.jpg</image>
+		<condition>New</condition>
+		<price>44.99</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>9</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaQiCertifiedWirelessChargingPadforiPhone" retailer="SmartPortables" type="smartphones">
+		<name>Insignia™ Qi Certified Wireless Charging Pad for iPhone</name>
+		<image>/images/InsigniaQiCertifiedWirelessChargingPadforiPhone.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>6</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="AppleLightningtoUSB2Cable" retailer="SmartPortables" type="smartphones">
+		<name>AppleLightningtoUSB2Cable</name>
+		<image>/images/AppleLightningtoUSB2Cable.jpg</image>
+		<condition>New</condition>
+		<price>21.99</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AppleLightningto35HeadphoneAdapter" retailer="SmartPortables" type="smartphones">
+		<name>AppleLightningto35HeadphoneAdapter</name>
+		<image>/images/AppleLightningto35HeadphoneAdapter.jpg</image>
+		<condition>New</condition>
+		<price>21.99</price>	
+		<manufacturer>Apple</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="SamsungFastChargeWirelessCharger" retailer="SmartPortables" type="smartphones">
+		<name>SamsungFastChargeWirelessCharger</name>
+		<image>/images/SamsungFastChargeWirelessCharger.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="SamsungFastChargeWirelessChargingConvertibleStand" retailer="SmartPortables" type="smartphones">
+		<name>SamsungFastChargeWirelessChargingConvertibleStand</name>
+		<image>/images/SamsungFastChargeWirelessChargingConvertibleStand.jpg</image>
+		<condition>New</condition>
+		<price>79.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="SamsungWirelessChargerGold" retailer="SmartPortables" type="smartphones">
+		<name>SamsungWirelessChargerGold</name>
+		<image>/images/SamsungWirelessChargerGold.jpg</image>
+		<condition>New</condition>
+		<price>49.99</price>	
+		<manufacturer>Samsung</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="PlatinumQuickChargeCarCharger" retailer="SmartPortables" type="smartphones">
+		<name>PlatinumQuickChargeCarCharger</name>
+		<image>/images/PlatinumQuickChargeCarCharger.jpg</image>
+		<condition>New</condition>
+		<price>24.99</price>	
+		<manufacturer>Platinum</manufacturer>
+		<discount>10.0</discount>
+		<qnty>11</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="PlatinumQuickChargeWallCharger" retailer="SmartPortables" type="smartphones">
+		<name>PlatinumQuickChargeWallCharger </name>
+		<image>/images/PlatinumQuickChargeWallCharger.jpg</image>
+		<condition>New</condition>
+		<price>24.99</price>	
+		<manufacturer>Platinum</manufacturer>
+		<discount>10.0</discount>
+		<qnty>32</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLDesignerLapDeskSilverDamask" retailer="SmartPortables" type="laptops">
+		<name>LapGearXLDesignerLapDeskSilverDamask </name>
+		<image>/images/LapGearXLDesignerLapDeskSilverDamask.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>27</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearExecutiveTabletPillowStandGraylinen" retailer="SmartPortables" type="laptops">
+		<name>LapGearExecutiveTabletPillowStandGraylinen </name>
+		<image>/images/LapGearExecutiveTabletPillowStandGraylinen.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>8</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLDesignerLapDeskTrelli" retailer="SmartPortables" type="laptops">
+		<name>LapGearXLDesignerLapDeskTrelli </name>
+		<image>/images/LapGearXLDesignerLapDeskTrelli.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>6</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLDesignerLapDeskGoldQuatrefoil" retailer="SmartPortables" type="laptops">
+		<name>LapGearXLDesignerLapDeskGoldQuatrefoil </name>
+		<image>/images/LapGearXLDesignerLapDeskGoldQuatrefoil.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>12</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="AluratekUniversalFoldableLaptopStand" retailer="SmartPortables" type="laptops">
+		<name>AluratekUniversalFoldableLaptopStand </name>
+		<image>/images/AluratekUniversalFoldableLaptopStand.jpg</image>
+		<condition>New</condition>
+		<price>49.99</price>	
+		<manufacturer>Aluratek</manufacturer>
+		<discount>10.0</discount>
+		<qnty>17</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLStudentLapDeskwithclipBlack" retailer="SmartPortables" type="laptops">
+		<name>LapGearXLStudentLapDeskwithclipBlack </name>
+		<image>/images/LapGearXLStudentLapDeskwithclipBlack.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>14</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLDesignerLapDeskDamask" retailer="SmartPortables" type="laptops">
+		<name>LapGear XL Designer Lap Desk Damask</name>
+		<image>/images/LapGearXLDesignerLapDeskDamask.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>24</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="AluratekAdjustableErgonomicLaptopCoolingTablewithFan" retailer="SmartPortables" type="laptops">
+		<name>AluratekAdjustableErgonomicLaptopCoolingTablewithFan</name>
+		<image>/images/AluratekAdjustableErgonomicLaptopCoolingTablewithFan.jpg</image>
+		<condition>New</condition>
+		<price>37.99</price>	
+		<manufacturer>Aluratek</manufacturer>
+		<discount>10.0</discount>
+		<qnty>27</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearMiniMyDeskLapdeskBlack" retailer="SmartPortables" type="laptops">
+		<name>LapGearMiniMyDeskLapdeskBlack</name>
+		<image>/images/LapGearMiniMyDeskLapdeskBlack.jpg</image>
+		<condition>New</condition>
+		<price>16.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="LapGearXLDesignerLapDeskDiamonds" retailer="SmartPortables" type="laptops">
+		<name>LapGearXLDesignerLapDeskDiamonds</name>
+		<image>/images/LapGearXLDesignerLapDeskDiamonds.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>LapGear</manufacturer>
+		<discount>10.0</discount>
+		<qnty>18</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="CreativeManufacturing17SeriesLapDeskBlack" retailer="SmartPortables" type="laptops">
+		<name>CreativeManufacturing17SeriesLapDeskBlack</name>
+		<image>/images/CreativeManufacturing17SeriesLapDeskBlack.jpg</image>
+		<condition>New</condition>
+		<price>49.99</price>	
+		<manufacturer>Creative</manufacturer>
+		<discount>10.0</discount>
+		<qnty>39</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="ATLANTICLaptopTrayBlack" retailer="SmartPortables" type="laptops">
+		<name>ATLANTICLaptopTrayBlack</name>
+		<image>/images/ATLANTICLaptopTrayBlack.jpg</image>
+		<condition>New</condition>
+		<price>34.99</price>	
+		<manufacturer>ATLANTIC</manufacturer>
+		<discount>10.0</discount>
+		<qnty>27</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="VisionTekDriveXpanderHotSwappableAdapter" retailer="SmartPortables" type="externalstorage">
+		<name>VisionTekDriveXpanderHotSwappableAdapter</name>
+		<image>/images/VisionTekDriveXpanderHotSwappableAdapter.jpg</image>
+		<condition>New</condition>
+		<price>19.99</price>	
+		<manufacturer>VisionTek</manufacturer>
+		<discount>10.0</discount>
+		<qnty>16</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+	<accessorymain id="StarTechUSB3AdapterCable" retailer="SmartPortables" type="externalstorage">
+		<name>StarTechUSB3AdapterCable</name>
+		<image>/images/StarTechUSB3AdapterCable.jpg</image>
+		<condition>New</condition>
+		<price>55.99</price>	
+		<manufacturer>StarTech</manufacturer>
+		<discount>10.0</discount>
+		<qnty>5</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="StarTechUSBCToSATA" retailer="SmartPortables" type="externalstorage">
+		<name>StarTechUSBCToSATA</name>
+		<image>/images/StarTechUSBCToSATA.jpg</image>
+		<condition>New</condition>
+		<price>31.99</price>	
+		<manufacturer>StarTech</manufacturer>
+		<discount>10.0</discount>
+		<qnty>22</qnty>
+		<productOnSale>No</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="StarTecheSATAUSB3HardDriveDockingStation" retailer="SmartPortables" type="externalstorage">
+		<name>StarTecheSATAUSB3HardDriveDockingStation</name>
+		<image>/images/StarTecheSATAUSB3HardDriveDockingStation.jpg</image>
+		<condition>New</condition>
+		<price>43.99</price>	
+		<manufacturer>StarTech</manufacturer>
+		<discount>10.0</discount>
+		<qnty>34</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="ApricornDataTransferCableGray" retailer="SmartPortables" type="externalstorage">
+		<name>ApricornDataTransferCableGray</name>
+		<image>/images/ApricornDataTransferCableGray.jpg</image>
+		<condition>New</condition>
+		<price>15.99</price>	
+		<manufacturer>Apricorn</manufacturer>
+		<discount>10.0</discount>
+		<qnty>25</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="WDCarryingCaseforSelectPassportPortableHardDrives" retailer="SmartPortables" type="externalstorage">
+		<name>WDCarryingCaseforSelectPassportPortableHardDrives</name>
+		<image>/images/WDCarryingCaseforSelectPassportPortableHardDrives.jpg</image>
+		<condition>New</condition>
+		<price>12.99</price>	
+		<manufacturer>WD</manufacturer>
+		<discount>10.0</discount>
+		<qnty>13</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Insignia3SerialATAHardDriveEnclosure" retailer="SmartPortables" type="externalstorage">
+		<name>Insignia™ 3 SerialATA Hard Drive Enclosure</name>
+		<image>/images/Insignia3SerialATAHardDriveEnclosure.jpg</image>
+		<condition>New</condition>
+		<price>39.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>24</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="Insignia25SerialATAHardDriveEnclosure" retailer="SmartPortables" type="externalstorage">
+		<name>Insignia™ 25 SerialATA Hard Drive Enclosure</name>
+		<image>/images/Insignia25SerialATAHardDriveEnclosure.jpg</image>
+		<condition>New</condition>
+		<price>29.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>19</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>Yes</rebate>
+	</accessorymain>
+	<accessorymain id="InsigniaPortableHardDriveCaseCharcoal" retailer="SmartPortables" type="externalstorage">
+		<name>Insignia™ Portable Hard Drive Case Charcoal</name>
+		<image>/images/InsigniaPortableHardDriveCaseCharcoal.jpg</image>
+		<condition>New</condition>
+		<price>9.99</price>	
+		<manufacturer>Insignia</manufacturer>
+		<discount>10.0</discount>
+		<qnty>29</qnty>
+		<productOnSale>Yes</productOnSale>
+		<rebate>No</rebate>
+	</accessorymain>
+</AccessoriesCatalog>
+</ProductCatalog>
